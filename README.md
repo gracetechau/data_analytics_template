@@ -1,5 +1,7 @@
 # Template for Data Analytics
 
+## Author
+
 ## Project Name
 
 ## Year
@@ -9,13 +11,12 @@ Short description of what the project is.
 
 **Questions**
 
-- Aspect 1
-- Aspect 2
-- Aspect 3
+- Question 1
+- Question 2
+- Question 3
 
-## **To-Do List**
-
-[x] Task 1
-[] Task 2
-~[x] Task 3~
-[] Task 4
+**To-Do List**
+[x] Task 1  
+[ ] Task 2  
+~[x] Task 3~  
+[ ] Task 4
