@@ -1,7 +1,7 @@
 # Project Name
 
 By: **Grace Techau**  
-**Date**
+**Date**  
 Connect with me on social media and follow my work:  
 [GitHub](https://github.com/gracetechau)  
 [LinkedIn](https://www.linkedin.com/in/grace-techau/)
