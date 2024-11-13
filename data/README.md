@@ -1,10 +1,10 @@
 # Data Folder
 
-## Raw Data
+## raw_data
 
 Original, unmodified data after downloading, scraping, etc.
 
-## Clean Data
+## clean_data
 
 Data after all cleaning, processing and analyzing.
 
