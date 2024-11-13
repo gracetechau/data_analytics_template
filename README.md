@@ -2,8 +2,8 @@
 
 By: **Author**  
 Connect with me on social media and follow my work:  
-<a> href="https://github.com/gracetechau" GitHub </a>
-<a> href="www.linkedin.com/in/grace-techau" LinkedIn </a>
+[GitHub] (https://github.com/gracetechau)
+[LinkedIn](https://www.linkedin.com/in/grace-techau/)
 
 ## Project Description
 
