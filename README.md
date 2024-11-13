@@ -1,9 +1,9 @@
 # Project Name
 
-By: **Author**
+By: **Author**  
 Connect with me on social media and follow my work:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/grace-techau)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/gracetechau)
+<a> href="https://github.com/gracetechau" GitHub </a>
+<a> href="www.linkedin.com/in/grace-techau" LinkedIn </a>
 
 ## Project Description
 
@@ -15,6 +15,11 @@ Short description of what the project is.
 [ ] Task 3
 [ ] Task 4
 
-**Change Log**
+## Installation Instructions
+
+1. Clone this repository to local computer
+2. Install Anaconda and run Jupyter Notebooks
+
+### Change Log
 
 - Date: Developer - change made
