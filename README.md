@@ -1,7 +1,8 @@
 # Project Name
 
-By: **Author**  
-Connect with me on social media and follow my work:
+By: **Grace Techau**  
+**Date**
+Connect with me on social media and follow my work:  
 [GitHub](https://github.com/gracetechau)  
 [LinkedIn](https://www.linkedin.com/in/grace-techau/)
 
