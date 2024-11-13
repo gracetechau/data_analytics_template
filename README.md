@@ -1,7 +1,8 @@
 # Project Name
 
 By: **Grace Techau**  
-**Date**  
+Date: **Date**
+
 Connect with me on social media and follow my work:  
 [GitHub](https://github.com/gracetechau)  
 [LinkedIn](https://www.linkedin.com/in/grace-techau/)
@@ -9,6 +10,10 @@ Connect with me on social media and follow my work:
 ## Project Description
 
 Short description of what the project is.
+
+## What did I learn?
+
+Short description about what I learned in this project.
 
 **To-Do List**  
 [ ] Task 1  
