@@ -11,15 +11,15 @@ Connect with me on social media and follow my work:
 
 Short description of what the project is.
 
-## What did I learn?
-
-Short description about what I learned in this project.
-
 **To-Do List**  
 [ ] Task 1  
 [ ] Task 2  
 [ ] Task 3  
 [ ] Task 4
+
+## What did I learn?
+
+Short description about what I learned in this project.
 
 ## Installation Instructions
 
