@@ -1,8 +1,8 @@
 # Project Name
 
 By: **Author**  
-Connect with me on social media and follow my work:  
-[GitHub] (https://github.com/gracetechau)
+Connect with me on social media and follow my work:
+[GitHub](https://github.com/gracetechau)  
 [LinkedIn](https://www.linkedin.com/in/grace-techau/)
 
 ## Project Description
@@ -12,7 +12,7 @@ Short description of what the project is.
 **To-Do List**  
 [ ] Task 1  
 [ ] Task 2  
-[ ] Task 3
+[ ] Task 3  
 [ ] Task 4
 
 ## Installation Instructions
